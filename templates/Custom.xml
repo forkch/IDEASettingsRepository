@@ -1,0 +1,18 @@
+<templateSet group="Custom">
+  <template name="test" value="&#10;    @Test&#10;    public void when$WHEN$_itShould$SHOULD$() {&#10;        // given&#10;        $END$&#10;        // when&#10;&#10;        // then&#10;    }&#10;    " description="Add a test stub" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="WHEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SHOULD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="ktest" value="&#10;    @Test&#10;    fun when$WHEN$_itShould$SHOULD$() {&#10;        // given&#10;        $END$&#10;        // when&#10;&#10;        // then&#10;    }&#10;    " description="Kotlin test stub" toReformat="false" toShortenFQNames="true">
+    <variable name="WHEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SHOULD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>

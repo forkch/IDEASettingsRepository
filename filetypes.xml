@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="ic_launcher_adaptive.xml" type="PLAIN_TEXT" />
+      <mapping pattern="plugins {     `kotlin-dsl` }" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping ext="tape" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="XML" />
+      <mapping ext="flat" type="Images" />
+    </extensionMap>
+  </component>
+</application>

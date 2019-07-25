@@ -1,0 +1,10 @@
+<list display="Bens">
+  <action id="Vcs.Show.Local.Changes" />
+  <action id="Git.Branches" />
+  <action id="Vcs.Show.Shelf" />
+  <action id="Gitflow.OpenGitflowPopup" />
+  <action id="ToggleDistractionFreeMode" />
+  <action id="ViewNavigationBar" />
+  <action id="Compare.SameVersion" />
+  <action id="Git.CompareWithBranch" />
+</list>

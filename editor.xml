@@ -1,0 +1,24 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="10" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+  </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern icon="important" pattern=".*multipleitems.*" />
+    <pattern icon="question" pattern="\btodo\b.*BRING-\d+" />
+    <filter name="Multiitem">
+      <pattern index="2" />
+    </filter>
+    <filter name="StoryRelated">
+      <pattern index="3" />
+    </filter>
+  </component>
+</application>
