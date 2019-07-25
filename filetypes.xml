@@ -1,0 +1,23 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="barilla pasta spaghetti" type="PLAIN_TEXT" />
+      <mapping pattern="axe" type="PLAIN_TEXT" />
+      <mapping pattern="videos" type="PLAIN_TEXT" />
+      <mapping pattern="Henkel Ad Trackers" type="PLAIN_TEXT" />
+      <mapping pattern="CFPartnerService" type="PLAIN_TEXT" />
+      <mapping pattern="deeplinks" type="PLAIN_TEXT" />
+      <mapping pattern="kitchenhack" type="PLAIN_TEXT" />
+      <mapping pattern="blub" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
