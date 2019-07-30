@@ -214,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3692</Count>
+          <Count>3696</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -494,6 +494,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Tests in 'core''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests Bring-Ad'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Unittests Bring-Ad'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
