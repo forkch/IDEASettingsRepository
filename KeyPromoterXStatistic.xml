@@ -414,7 +414,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -430,7 +430,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Bring! App'</Description>
-          <Count>63</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Bring-Wear2'">
