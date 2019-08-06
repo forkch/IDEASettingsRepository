@@ -15,11 +15,11 @@
     <mask>gradle</mask>
     <mask>*.java</mask>
     <mask>*.plist</mask>
-    <mask>*.gradle</mask>
     <mask>*Acti*</mask>
     <mask>strings.xml</mask>
     <mask>nav*.*</mask>
     <mask>*.xml</mask>
     <mask>*.kt</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
