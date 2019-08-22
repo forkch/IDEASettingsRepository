@@ -3,23 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.js</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>Articles.*</mask>
-    <mask>build.gradle</mask>
-    <mask>gradle</mask>
-    <mask>*.java</mask>
-    <mask>*.plist</mask>
-    <mask>*Acti*</mask>
-    <mask>strings.xml</mask>
-    <mask>nav*.*</mask>
-    <mask>*.kt</mask>
-    <mask>*.xml</mask>
-    <mask>*.gradle</mask>
   </component>
 </application>
