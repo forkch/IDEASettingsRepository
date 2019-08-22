@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="global" />
-    <option name="defaultScopeName" value="global" />
+    <option name="customScope" value="Project Production Files" />
+    <option name="defaultScopeName" value="Project Production Files" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="global" />
+    <option name="SEARCH_SCOPE" value="Project Production Files" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,7 +15,6 @@
     <mask>Articles.*</mask>
     <mask>build.gradle</mask>
     <mask>gradle</mask>
-    <mask>*.java</mask>
     <mask>*.plist</mask>
     <mask>*Acti*</mask>
     <mask>strings.xml</mask>
@@ -23,5 +22,6 @@
     <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
+    <mask>*.java</mask>
   </component>
 </application>
