@@ -14,5 +14,6 @@
     <mask>*.xml</mask>
     <mask>colors.xml</mask>
     <mask>build.gradle</mask>
+    <mask>strings.xml</mask>
   </component>
 </application>
