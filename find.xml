@@ -15,7 +15,7 @@
     <mask>strings.xml</mask>
     <mask>build.gradle</mask>
     <mask>*Module</mask>
-    <mask>*.kt</mask>
     <mask>*.gradle</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
