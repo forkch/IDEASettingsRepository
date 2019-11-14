@@ -8,7 +8,6 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.gradle</mask>
     <mask>*</mask>
     <mask>Activit</mask>
     <mask>*.xml</mask>
@@ -16,6 +15,7 @@
     <mask>strings.xml</mask>
     <mask>build.gradle</mask>
     <mask>*Module</mask>
+    <mask>*.gradle</mask>
     <mask>*.kt</mask>
   </component>
 </application>
