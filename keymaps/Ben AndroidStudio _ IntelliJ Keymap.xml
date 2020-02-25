@@ -1,4 +1,8 @@
 <keymap version="1" name="Ben AndroidStudio / IntelliJ Keymap" parent="Default for KDE">
+  <action id="ActivateBuildToolWindow">
+    <keyboard-shortcut first-keystroke="alt released 0" />
+  </action>
+  <action id="ActivateProjectToolWindow" />
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="ctrl 6" />
     <keyboard-shortcut first-keystroke="ctrl f6" />
@@ -29,6 +33,9 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
