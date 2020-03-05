@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="alt released 0" />
   </action>
   <action id="ActivateProjectToolWindow" />
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="ctrl alt 6" />
+  </action>
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="ctrl 6" />
     <keyboard-shortcut first-keystroke="ctrl f6" />
@@ -37,6 +40,7 @@
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="SwitchCoverage" />
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
