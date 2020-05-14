@@ -6,6 +6,7 @@
       <mapping pattern="bring" type="Native" />
       <mapping pattern="gradlew" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
+      <mapping pattern="ItemPredictionResult" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
     </extensionMap>
