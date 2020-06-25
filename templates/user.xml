@@ -5,7 +5,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="LOGGER" value="companion object {&#10;        @Suppress(&quot;JAVA_CLASS_ON_COMPANION&quot;)&#10;        @JvmStatic&#10;        private val LOGGER = LoggerFactory.getLogger(javaClass.enclosingClass)&#10;    }" toReformat="true" toShortenFQNames="true">
+  <template name="LOGGER" value="companion object {&#10;        @Suppress(&quot;JAVA_CLASS_ON_COMPANION&quot;)&#10;        @JvmStatic&#10;        private val LOGGER = LoggerFactory.getLogger(javaClass.enclosingClass)&#10;    }" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_CLASS" value="true" />
     </context>
