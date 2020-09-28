@@ -490,8 +490,9 @@
         <entry key="*.hprof">
           <value>
             <plugin>
-              <option name="myPluginId" value="JProfiler" />
-              <option name="myPluginName" value="JProfiler" />
+              <option name="myPluginId" value="org.jetbrains.android" />
+              <option name="myPluginName" value="Android" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
