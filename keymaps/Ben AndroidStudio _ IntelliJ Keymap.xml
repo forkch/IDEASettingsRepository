@@ -6,6 +6,7 @@
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProjectToolWindow" />
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="ctrl alt 6" />
   </action>
@@ -43,6 +44,9 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="SwitchCoverage" />
   <action id="TogglePresentationMode">
