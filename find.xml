@@ -15,7 +15,6 @@
     <mask>strings.xml</mask>
     <mask>*Module</mask>
     <mask>*,xml</mask>
-    <mask>build.gradle</mask>
     <mask>*.cfg</mask>
     <mask>*.xml</mask>
     <mask>*.yml</mask>
@@ -23,5 +22,6 @@
     <mask>*.kt</mask>
     <mask>CF*</mask>
     <mask>*.gradle</mask>
+    <mask>build.gradle</mask>
   </component>
 </application>
