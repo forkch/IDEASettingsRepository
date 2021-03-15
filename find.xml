@@ -22,8 +22,8 @@
     <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*.kt</mask>
-    <mask>CF*</mask>
     <mask>*.gradle</mask>
     <mask>build.gradle</mask>
+    <mask>CF*</mask>
   </component>
 </application>
