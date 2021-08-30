@@ -9,7 +9,6 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*</mask>
     <mask>Activit</mask>
     <mask>colors.xml</mask>
     <mask>strings.xml</mask>
@@ -21,8 +20,9 @@
     <mask>build.gradle</mask>
     <mask>CF*</mask>
     <mask>*.java</mask>
-    <mask>*.gradle</mask>
     <mask>*.sql</mask>
     <mask>*.kt</mask>
+    <mask>*</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
